@@ -6,7 +6,6 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Project Structure](#project-structure)
 - [License](#license)
 
@@ -17,9 +16,6 @@
 - Progettato solo per testare sistemi di analisi (OWASP, agenti Docs)
 - Include componenti senza documentazione
 - Include vulnerabilità deliberatamente aggiunte per test
-
-## Installation
-{Non sono disponibili istruzioni di installazione poiché il progetto non è eseguibile né realistico, e non presenta build o dipendenze installabili.}
 
 ## Project Structure
 Il progetto è costituito da pochi file Python all'interno della directory `src/`.
